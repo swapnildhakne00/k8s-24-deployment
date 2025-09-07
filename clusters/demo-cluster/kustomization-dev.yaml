@@ -1,13 +1,14 @@
-apiVersion: kustomize.toolkit.fluxcd.io/v1beta2
+apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
 metadata:
-  name: online-store
+  name: online-order
   namespace: flux-system
 spec:
-  interval: 1m
-  path: "./environments/dev"
-  prune: true
+  interval: 1m0s
   sourceRef:
     kind: GitRepository
     name: flux-system
-  validation: client
+  path: ./environments/dev
+  prune: true
+  wait: true
+  timeout: 5m0s
