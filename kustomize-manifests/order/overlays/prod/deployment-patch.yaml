@@ -3,5 +3,5 @@ kind: Deployment
 metadata:
   name: order-service
 spec:
-  replicas: 6
+  replicas: 3
   

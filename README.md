@@ -1,4 +1,4 @@
-# Part 23: Deploying microservice applications in kubernetes (KinD) using FluxCD
+# Part 24: Deploying microservice applications in kubernetes multiple enverinments using FluxCD and Kustomize
 
     Part1:   Manual Deployment (AzCLI + Docker Desktop + kubectl)  
     GitHub:  https://github.com/santosh-gh/k8s-01
@@ -202,6 +202,13 @@
     YouTube: https://studio.youtube.com/video/hdxo5uw35vs/edit
 
     Part23: GitOps using Flux (Microservice deployment using Flux, KinD)
+
+    GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
+    GitHub:  https://github.com/santosh-gh/k8s-23-deployment.git
+    YouTube: https://studio.youtube.com/video/hdxo5uw35vs/edit
+
+    Part24: GitOps using Flux (Microservice deployment using Flux, Kustomization)
+            Deploy into multiple environments (dev,test and prod)
 
     GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
     GitHub:  https://github.com/santosh-gh/k8s-23-deployment.git
