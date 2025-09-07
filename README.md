@@ -193,25 +193,25 @@
 
     GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
     GitHub:  https://github.com/santosh-gh/k8s-21-deployment.git
-    YouTube: https://www.youtube.com/watch?v=bzCk-tDUlZc&list=PLr6ErUeFySVug9VG73_W2MypRez_ZycWh&index=20
+    YouTube: https://www.youtube.com/watch?v=ILNxCQ5VZ4g&list=PLr6ErUeFySVug9VG73_W2MypRez_ZycWh&index=21
 
     Part22: GitOps using Flux (Microservice deployment using Flux, KinD)
 
     GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
     GitHub:  https://github.com/santosh-gh/k8s-22-deployment.git
-    YouTube: https://studio.youtube.com/video/hdxo5uw35vs/edit
+    YouTube: https://www.youtube.com/watch?v=hdxo5uw35vs&list=PLr6ErUeFySVug9VG73_W2MypRez_ZycWh&index=22
 
     Part23: GitOps using Flux (Microservice deployment using Flux, KinD)
 
     GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
     GitHub:  https://github.com/santosh-gh/k8s-23-deployment.git
-    YouTube: https://studio.youtube.com/video/hdxo5uw35vs/edit
+    YouTube: https://www.youtube.com/watch?v=98gdG70yjmU&list=PLr6ErUeFySVug9VG73_W2MypRez_ZycWh&index=23
 
     Part24: GitOps using Flux (Microservice deployment using Flux, Kustomization)
             Deploy into multiple environments (dev,test and prod)
 
     GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
-    GitHub:  https://github.com/santosh-gh/k8s-23-deployment.git
+    GitHub:  https://github.com/santosh-gh/k8s-24-deployment.git
     YouTube: https://studio.youtube.com/video/hdxo5uw35vs/edit
 
 # Architesture
